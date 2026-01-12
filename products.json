@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Link Rewriter",
+      "description": "Chrome Web Storeで公開中",
+      "url": "https://chromewebstore.google.com/detail/kopnejjgoedijfldhngokhidnhmgimih",
+      "tags": ["Chrome Extension", "JavaScript"]
+    },
+    {
+      "name": "SokuMemo（即メモ）",
+      "description": "Chrome Web Store で公開中",
+      "url": "https://chromewebstore.google.com/detail/pbojjncigjbjjapcljgjmemgdndpfcch",
+      "tags": ["Chrome Extension", "JavaScript"]
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub",
+      "description": "コードを見る",
+      "url": "https://github.com/HikaruYam"
+    },
+    {
+      "name": "Qiita",
+      "description": "技術記事",
+      "url": "https://qiita.com/HikaruYam"
+    }
+  ]
+}
