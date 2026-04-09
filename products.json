@@ -11,6 +11,18 @@
       "description": "Chrome Web Store で公開中",
       "url": "https://chromewebstore.google.com/detail/pbojjncigjbjjapcljgjmemgdndpfcch",
       "tags": ["Chrome Extension", "JavaScript"]
+    },
+    {
+      "name": "GitHub PR Filter Helper",
+      "description": "Chrome Web Store で公開中",
+      "url": "https://chromewebstore.google.com/detail/github-pr-filter-helper/kgnfamkccjgefimepobccjoenifnbdno",
+      "tags": ["Chrome Extension", "JavaScript"]
+    },
+    {
+      "name": "Resizify",
+      "description": "Chrome Web Store で公開中",
+      "url": "https://chromewebstore.google.com/detail/resizify/oepfjlbaebkdpojnhjoinhfjgmhhchnn",
+      "tags": ["Chrome Extension", "JavaScript"]
     }
   ],
   "links": [
